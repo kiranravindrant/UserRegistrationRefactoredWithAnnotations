@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.exe
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.deps.json
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.runtimeconfig.json
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.dll
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\bin\Debug\netcoreapp3.1\UserRegistration_With Annotations.pdb
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.dll
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.pdb
+C:\Users\LENOVO\source\repos\UserRegistration_With Annotations\obj\Debug\netcoreapp3.1\UserRegistration_With Annotations.genruntimeconfig.cache
